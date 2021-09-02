@@ -1,0 +1,15 @@
+D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Data\bin\Release\net5.0\StockData.Data.deps.json
+D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Data\bin\Release\net5.0\StockData.Data.runtimeconfig.json
+D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Data\bin\Release\net5.0\StockData.Data.runtimeconfig.dev.json
+D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Data\bin\Release\net5.0\StockData.Data.dll
+D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Data\bin\Release\net5.0\ref\StockData.Data.dll
+D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Data\bin\Release\net5.0\StockData.Data.pdb
+D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Data\obj\Release\net5.0\StockData.Data.csprojAssemblyReference.cache
+D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Data\obj\Release\net5.0\StockData.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Data\obj\Release\net5.0\StockData.Data.AssemblyInfoInputs.cache
+D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Data\obj\Release\net5.0\StockData.Data.AssemblyInfo.cs
+D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Data\obj\Release\net5.0\StockData.Data.csproj.CoreCompileInputs.cache
+D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Data\obj\Release\net5.0\StockData.Data.dll
+D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Data\obj\Release\net5.0\ref\StockData.Data.dll
+D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Data\obj\Release\net5.0\StockData.Data.pdb
+D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Data\obj\Release\net5.0\StockData.Data.genruntimeconfig.cache

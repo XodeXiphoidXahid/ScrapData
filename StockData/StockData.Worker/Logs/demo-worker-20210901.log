@@ -1,0 +1,215 @@
+2021-09-01 18:12:10.295 +06:00 [INF] Application Starting up
+2021-09-01 18:14:49.225 +06:00 [INF] Application Starting up
+2021-09-01 18:15:58.527 +06:00 [INF] Application Starting up
+2021-09-01 19:32:04.428 +06:00 [INF] Application Starting up
+2021-09-01 19:33:02.029 +06:00 [INF] Application Starting up
+2021-09-01 19:41:09.741 +06:00 [INF] Application Starting up
+2021-09-01 19:42:38.905 +06:00 [INF] Application Starting up
+2021-09-01 19:43:17.765 +06:00 [INF] Application Starting up
+2021-09-01 19:55:53.096 +06:00 [INF] Application Starting up
+2021-09-01 19:57:06.272 +06:00 [INF] Application Starting up
+2021-09-01 19:57:40.569 +06:00 [INF] Application Starting up
+2021-09-01 19:57:45.885 +06:00 [FTL] Application start-up failed
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Number.ParseInt32(ReadOnlySpan`1 value, NumberStyles styles, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at StockData.Stock.Services.StockPriceService.LoadData() in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Stock\Services\StockPriceService.cs:line 106
+   at StockData.Stock.Services.StockPriceService.ScrapData() in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Stock\Services\StockPriceService.cs:line 25
+   at StockData.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Worker\Worker.cs:line 26
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at StockData.Worker.Program.Main(String[] args) in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Worker\Program.cs:line 42
+2021-09-01 20:02:42.719 +06:00 [INF] Application Starting up
+2021-09-01 20:02:47.767 +06:00 [FTL] Application start-up failed
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Number.ParseInt32(ReadOnlySpan`1 value, NumberStyles styles, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at StockData.Stock.Services.StockPriceService.LoadData() in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Stock\Services\StockPriceService.cs:line 106
+   at StockData.Stock.Services.StockPriceService.ScrapData() in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Stock\Services\StockPriceService.cs:line 25
+   at StockData.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Worker\Worker.cs:line 26
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at StockData.Worker.Program.Main(String[] args) in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Worker\Program.cs:line 42
+2021-09-01 20:03:12.705 +06:00 [INF] Application Starting up
+2021-09-01 20:03:18.052 +06:00 [FTL] Application start-up failed
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Number.ParseInt32(ReadOnlySpan`1 value, NumberStyles styles, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at StockData.Stock.Services.StockPriceService.LoadData() in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Stock\Services\StockPriceService.cs:line 106
+   at StockData.Stock.Services.StockPriceService.ScrapData() in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Stock\Services\StockPriceService.cs:line 25
+   at StockData.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Worker\Worker.cs:line 26
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at StockData.Worker.Program.Main(String[] args) in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Worker\Program.cs:line 42
+2021-09-01 20:04:34.485 +06:00 [INF] Application Starting up
+2021-09-01 20:04:51.646 +06:00 [FTL] Application start-up failed
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Number.ParseInt32(ReadOnlySpan`1 value, NumberStyles styles, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at StockData.Stock.Services.StockPriceService.LoadData() in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Stock\Services\StockPriceService.cs:line 106
+   at StockData.Stock.Services.StockPriceService.ScrapData() in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Stock\Services\StockPriceService.cs:line 25
+   at StockData.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Worker\Worker.cs:line 26
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at StockData.Worker.Program.Main(String[] args) in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Worker\Program.cs:line 42
+2021-09-01 20:09:42.310 +06:00 [INF] Application Starting up
+2021-09-01 20:10:02.405 +06:00 [INF] Application Starting up
+2021-09-01 20:14:29.419 +06:00 [INF] Application Starting up
+2021-09-01 20:14:35.059 +06:00 [FTL] Application start-up failed
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Number.ParseInt32(ReadOnlySpan`1 value, NumberStyles styles, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at StockData.Stock.Services.StockPriceService.LoadData() in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Stock\Services\StockPriceService.cs:line 106
+   at StockData.Stock.Services.StockPriceService.ScrapData() in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Stock\Services\StockPriceService.cs:line 25
+   at StockData.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Worker\Worker.cs:line 26
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at StockData.Worker.Program.Main(String[] args) in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Worker\Program.cs:line 42
+2021-09-01 20:21:44.012 +06:00 [INF] Application Starting up
+2021-09-01 20:21:48.992 +06:00 [FTL] Application start-up failed
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Double.Parse(String s, NumberStyles style, IFormatProvider provider)
+   at StockData.Stock.Services.StockPriceService.LoadData() in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Stock\Services\StockPriceService.cs:line 100
+   at StockData.Stock.Services.StockPriceService.ScrapData() in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Stock\Services\StockPriceService.cs:line 25
+   at StockData.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Worker\Worker.cs:line 26
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at StockData.Worker.Program.Main(String[] args) in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Worker\Program.cs:line 42
+2021-09-01 20:27:44.867 +06:00 [INF] Application Starting up
+2021-09-01 20:27:49.741 +06:00 [FTL] Application start-up failed
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Double.Parse(String s, NumberStyles style, IFormatProvider provider)
+   at StockData.Stock.Services.StockPriceService.LoadData() in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Stock\Services\StockPriceService.cs:line 100
+   at StockData.Stock.Services.StockPriceService.ScrapData() in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Stock\Services\StockPriceService.cs:line 25
+   at StockData.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Worker\Worker.cs:line 26
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at StockData.Worker.Program.Main(String[] args) in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Worker\Program.cs:line 42
+2021-09-01 20:29:15.124 +06:00 [INF] Application Starting up
+2021-09-01 20:30:00.612 +06:00 [FTL] Application start-up failed
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Double.Parse(String s, NumberStyles style, IFormatProvider provider)
+   at StockData.Stock.Services.StockPriceService.LoadData() in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Stock\Services\StockPriceService.cs:line 100
+   at StockData.Stock.Services.StockPriceService.ScrapData() in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Stock\Services\StockPriceService.cs:line 25
+   at StockData.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Worker\Worker.cs:line 26
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at StockData.Worker.Program.Main(String[] args) in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Worker\Program.cs:line 42
+2021-09-01 20:30:25.475 +06:00 [INF] Application Starting up
+2021-09-01 20:33:22.578 +06:00 [INF] Application Starting up
+2021-09-01 20:36:07.968 +06:00 [FTL] Application start-up failed
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Double.Parse(String s, NumberStyles style, IFormatProvider provider)
+   at StockData.Stock.Services.StockPriceService.LoadData() in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Stock\Services\StockPriceService.cs:line 100
+   at StockData.Stock.Services.StockPriceService.ScrapData() in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Stock\Services\StockPriceService.cs:line 25
+   at StockData.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Worker\Worker.cs:line 26
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at StockData.Worker.Program.Main(String[] args) in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Worker\Program.cs:line 42
+2021-09-01 20:38:32.373 +06:00 [INF] Application Starting up
+2021-09-01 20:38:37.468 +06:00 [FTL] Application start-up failed
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Double.Parse(String s, NumberStyles style, IFormatProvider provider)
+   at StockData.Stock.Services.StockPriceService.LoadData() in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Stock\Services\StockPriceService.cs:line 100
+   at StockData.Stock.Services.StockPriceService.ScrapData() in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Stock\Services\StockPriceService.cs:line 25
+   at StockData.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Worker\Worker.cs:line 26
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at StockData.Worker.Program.Main(String[] args) in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Worker\Program.cs:line 42
+2021-09-01 20:38:53.819 +06:00 [INF] Application Starting up
+2021-09-01 20:47:08.065 +06:00 [INF] Application Starting up
+2021-09-01 20:47:50.206 +06:00 [INF] Application Starting up
+2021-09-01 20:50:45.199 +06:00 [INF] Application Starting up
+2021-09-01 20:50:53.512 +06:00 [FTL] Application start-up failed
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Double.Parse(String s, NumberStyles style, IFormatProvider provider)
+   at StockData.Stock.Services.StockPriceService.LoadData() in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Stock\Services\StockPriceService.cs:line 101
+   at StockData.Stock.Services.StockPriceService.ScrapData() in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Stock\Services\StockPriceService.cs:line 25
+   at StockData.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Worker\Worker.cs:line 26
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at StockData.Worker.Program.Main(String[] args) in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Worker\Program.cs:line 42
+2021-09-01 21:03:10.426 +06:00 [INF] Application Starting up
+2021-09-01 21:03:19.126 +06:00 [FTL] Application start-up failed
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Number.ParseInt32(ReadOnlySpan`1 value, NumberStyles styles, NumberFormatInfo info)
+   at System.Int32.Parse(String s, IFormatProvider provider)
+   at StockData.Stock.Services.StockPriceService.LoadData() in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Stock\Services\StockPriceService.cs:line 109
+   at StockData.Stock.Services.StockPriceService.ScrapData() in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Stock\Services\StockPriceService.cs:line 25
+   at StockData.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Worker\Worker.cs:line 26
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at StockData.Worker.Program.Main(String[] args) in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Worker\Program.cs:line 42
+2021-09-01 21:07:03.015 +06:00 [INF] Application Starting up
+2021-09-01 22:14:49.701 +06:00 [INF] Application Starting up
+2021-09-01 22:15:49.651 +06:00 [INF] Application Starting up
+2021-09-01 22:18:56.665 +06:00 [INF] Application Starting up
+2021-09-01 22:19:41.491 +06:00 [INF] Application Starting up
+2021-09-01 22:22:33.134 +06:00 [INF] Application Starting up
+2021-09-01 22:31:16.897 +06:00 [INF] Application Starting up
+2021-09-01 22:31:27.017 +06:00 [FTL] Application start-up failed
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Double.Parse(String s, IFormatProvider provider)
+   at StockData.Stock.Services.StockPriceService.LoadData() in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Stock\Services\StockPriceService.cs:line 107
+   at StockData.Stock.Services.StockPriceService.ScrapData() in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Stock\Services\StockPriceService.cs:line 25
+   at StockData.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Worker\Worker.cs:line 26
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at StockData.Worker.Program.Main(String[] args) in D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Worker\Program.cs:line 42
+2021-09-01 23:01:14.549 +06:00 [INF] Application Starting up
+2021-09-01 23:01:26.112 +06:00 [INF] Worker running at: "2021-09-01T23:01:26.1040994+06:00"
+2021-09-01 23:01:33.724 +06:00 [INF] Worker running at: "2021-09-01T23:01:33.7244325+06:00"
+2021-09-01 23:01:39.350 +06:00 [INF] Worker running at: "2021-09-01T23:01:39.3500511+06:00"
+2021-09-01 23:01:44.898 +06:00 [INF] Worker running at: "2021-09-01T23:01:44.8984215+06:00"
+2021-09-01 23:01:50.587 +06:00 [INF] Worker running at: "2021-09-01T23:01:50.5872198+06:00"
+2021-09-01 23:01:56.313 +06:00 [INF] Worker running at: "2021-09-01T23:01:56.3130587+06:00"
+2021-09-01 23:02:01.854 +06:00 [INF] Worker running at: "2021-09-01T23:02:01.8545285+06:00"
+2021-09-01 23:02:07.529 +06:00 [INF] Worker running at: "2021-09-01T23:02:07.5298071+06:00"
+2021-09-01 23:02:13.622 +06:00 [INF] Worker running at: "2021-09-01T23:02:13.6226696+06:00"
+2021-09-01 23:02:18.890 +06:00 [INF] Worker running at: "2021-09-01T23:02:18.8909585+06:00"
+2021-09-01 23:02:24.215 +06:00 [INF] Worker running at: "2021-09-01T23:02:24.2154374+06:00"
+2021-09-01 23:02:29.624 +06:00 [INF] Worker running at: "2021-09-01T23:02:29.6243087+06:00"
+2021-09-01 23:02:34.937 +06:00 [INF] Worker running at: "2021-09-01T23:02:34.9378517+06:00"
+2021-09-01 23:02:40.428 +06:00 [INF] Worker running at: "2021-09-01T23:02:40.4288750+06:00"
+2021-09-01 23:02:45.874 +06:00 [INF] Worker running at: "2021-09-01T23:02:45.8748452+06:00"
+2021-09-01 23:02:51.294 +06:00 [INF] Worker running at: "2021-09-01T23:02:51.2944898+06:00"
+2021-09-01 23:02:56.550 +06:00 [INF] Worker running at: "2021-09-01T23:02:56.5507704+06:00"

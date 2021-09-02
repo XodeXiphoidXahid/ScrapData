@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockData.Worker", "StockData.Worker\StockData.Worker.csproj", "{68626091-D6CE-4837-9BC6-68BFAE51B4A2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ConsoleApplications", "ConsoleApplications", "{47FA4C18-9F97-4EF1-A616-975EF298C945}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Load a Html Document", "Load a Html Document\Load a Html Document.csproj", "{C46FB972-9C5F-4E64-A000-90F7CD8197DB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockData.Stock", "StockData.Stock\StockData.Stock.csproj", "{50A1984E-D85E-40DD-8257-A888D7CD9055}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockData.Data", "StockData.Data\StockData.Data.csproj", "{F0FE1A11-BDE7-4565-8D66-C33F3C369A97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveSpecificCharacter", "RemoveSpecificCharacter\RemoveSpecificCharacter.csproj", "{483C7B28-813D-4260-8BDE-03087B327E4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68626091-D6CE-4837-9BC6-68BFAE51B4A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68626091-D6CE-4837-9BC6-68BFAE51B4A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68626091-D6CE-4837-9BC6-68BFAE51B4A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68626091-D6CE-4837-9BC6-68BFAE51B4A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C46FB972-9C5F-4E64-A000-90F7CD8197DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C46FB972-9C5F-4E64-A000-90F7CD8197DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C46FB972-9C5F-4E64-A000-90F7CD8197DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C46FB972-9C5F-4E64-A000-90F7CD8197DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50A1984E-D85E-40DD-8257-A888D7CD9055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50A1984E-D85E-40DD-8257-A888D7CD9055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50A1984E-D85E-40DD-8257-A888D7CD9055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50A1984E-D85E-40DD-8257-A888D7CD9055}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0FE1A11-BDE7-4565-8D66-C33F3C369A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0FE1A11-BDE7-4565-8D66-C33F3C369A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0FE1A11-BDE7-4565-8D66-C33F3C369A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0FE1A11-BDE7-4565-8D66-C33F3C369A97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{483C7B28-813D-4260-8BDE-03087B327E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{483C7B28-813D-4260-8BDE-03087B327E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{483C7B28-813D-4260-8BDE-03087B327E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{483C7B28-813D-4260-8BDE-03087B327E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C46FB972-9C5F-4E64-A000-90F7CD8197DB} = {47FA4C18-9F97-4EF1-A616-975EF298C945}
+		{483C7B28-813D-4260-8BDE-03087B327E4F} = {47FA4C18-9F97-4EF1-A616-975EF298C945}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5617D02D-5B73-4890-BB76-9ABBCA1DE23C}
+	EndGlobalSection
+EndGlobal

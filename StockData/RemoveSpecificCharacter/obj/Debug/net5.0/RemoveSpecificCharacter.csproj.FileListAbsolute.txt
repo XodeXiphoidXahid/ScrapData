@@ -1,0 +1,16 @@
+D:\ASP.Net Core(Devskill)\Personal Project\StockData\RemoveSpecificCharacter\bin\Debug\net5.0\RemoveSpecificCharacter.exe
+D:\ASP.Net Core(Devskill)\Personal Project\StockData\RemoveSpecificCharacter\bin\Debug\net5.0\RemoveSpecificCharacter.deps.json
+D:\ASP.Net Core(Devskill)\Personal Project\StockData\RemoveSpecificCharacter\bin\Debug\net5.0\RemoveSpecificCharacter.runtimeconfig.json
+D:\ASP.Net Core(Devskill)\Personal Project\StockData\RemoveSpecificCharacter\bin\Debug\net5.0\RemoveSpecificCharacter.runtimeconfig.dev.json
+D:\ASP.Net Core(Devskill)\Personal Project\StockData\RemoveSpecificCharacter\bin\Debug\net5.0\RemoveSpecificCharacter.dll
+D:\ASP.Net Core(Devskill)\Personal Project\StockData\RemoveSpecificCharacter\bin\Debug\net5.0\ref\RemoveSpecificCharacter.dll
+D:\ASP.Net Core(Devskill)\Personal Project\StockData\RemoveSpecificCharacter\bin\Debug\net5.0\RemoveSpecificCharacter.pdb
+D:\ASP.Net Core(Devskill)\Personal Project\StockData\RemoveSpecificCharacter\obj\Debug\net5.0\RemoveSpecificCharacter.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.Net Core(Devskill)\Personal Project\StockData\RemoveSpecificCharacter\obj\Debug\net5.0\RemoveSpecificCharacter.AssemblyInfoInputs.cache
+D:\ASP.Net Core(Devskill)\Personal Project\StockData\RemoveSpecificCharacter\obj\Debug\net5.0\RemoveSpecificCharacter.AssemblyInfo.cs
+D:\ASP.Net Core(Devskill)\Personal Project\StockData\RemoveSpecificCharacter\obj\Debug\net5.0\RemoveSpecificCharacter.csproj.CoreCompileInputs.cache
+D:\ASP.Net Core(Devskill)\Personal Project\StockData\RemoveSpecificCharacter\obj\Debug\net5.0\RemoveSpecificCharacter.dll
+D:\ASP.Net Core(Devskill)\Personal Project\StockData\RemoveSpecificCharacter\obj\Debug\net5.0\ref\RemoveSpecificCharacter.dll
+D:\ASP.Net Core(Devskill)\Personal Project\StockData\RemoveSpecificCharacter\obj\Debug\net5.0\RemoveSpecificCharacter.pdb
+D:\ASP.Net Core(Devskill)\Personal Project\StockData\RemoveSpecificCharacter\obj\Debug\net5.0\RemoveSpecificCharacter.genruntimeconfig.cache
+D:\ASP.Net Core(Devskill)\Personal Project\StockData\RemoveSpecificCharacter\obj\Debug\net5.0\RemoveSpecificCharacter.csprojAssemblyReference.cache
