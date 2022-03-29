@@ -7059,19 +7059,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Zahid\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ASP.Net Core(Devskill)\\Personal Project\\StockData\\StockData.Worker\\StockData.Worker.csproj",
+      "projectUniqueName": "D:\\ASP.Net Core(Devskill)\\ScrapData\\StockData\\StockData.Worker\\StockData.Worker.csproj",
       "projectName": "StockData.Worker",
-      "projectPath": "D:\\ASP.Net Core(Devskill)\\Personal Project\\StockData\\StockData.Worker\\StockData.Worker.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\ASP.Net Core(Devskill)\\Personal Project\\StockData\\StockData.Worker\\obj\\",
+      "projectPath": "D:\\ASP.Net Core(Devskill)\\ScrapData\\StockData\\StockData.Worker\\StockData.Worker.csproj",
+      "packagesPath": "C:\\Users\\Zahid\\.nuget\\packages\\",
+      "outputPath": "D:\\ASP.Net Core(Devskill)\\ScrapData\\StockData\\StockData.Worker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Zahid\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7085,8 +7085,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\ASP.Net Core(Devskill)\\Personal Project\\StockData\\StockData.Stock\\StockData.Stock.csproj": {
-              "projectPath": "D:\\ASP.Net Core(Devskill)\\Personal Project\\StockData\\StockData.Stock\\StockData.Stock.csproj"
+            "D:\\ASP.Net Core(Devskill)\\ScrapData\\StockData\\StockData.Stock\\StockData.Stock.csproj": {
+              "projectPath": "D:\\ASP.Net Core(Devskill)\\ScrapData\\StockData\\StockData.Stock\\StockData.Stock.csproj"
             }
           }
         }
@@ -7161,7 +7161,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }

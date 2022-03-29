@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ASP.Net Core(Devskill)\\Personal Project\\StockData\\StockData.Stock\\StockData.Stock.csproj": {}
+    "D:\\ASP.Net Core(Devskill)\\ScrapData\\StockData\\StockData.Stock\\StockData.Stock.csproj": {}
   },
   "projects": {
-    "D:\\ASP.Net Core(Devskill)\\Personal Project\\StockData\\StockData.Data\\StockData.Data.csproj": {
+    "D:\\ASP.Net Core(Devskill)\\ScrapData\\StockData\\StockData.Data\\StockData.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ASP.Net Core(Devskill)\\Personal Project\\StockData\\StockData.Data\\StockData.Data.csproj",
+        "projectUniqueName": "D:\\ASP.Net Core(Devskill)\\ScrapData\\StockData\\StockData.Data\\StockData.Data.csproj",
         "projectName": "StockData.Data",
-        "projectPath": "D:\\ASP.Net Core(Devskill)\\Personal Project\\StockData\\StockData.Data\\StockData.Data.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\ASP.Net Core(Devskill)\\Personal Project\\StockData\\StockData.Data\\obj\\",
+        "projectPath": "D:\\ASP.Net Core(Devskill)\\ScrapData\\StockData\\StockData.Data\\StockData.Data.csproj",
+        "packagesPath": "C:\\Users\\Zahid\\.nuget\\packages\\",
+        "outputPath": "D:\\ASP.Net Core(Devskill)\\ScrapData\\StockData\\StockData.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Zahid\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -71,45 +71,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-              "version": "[5.0.5, 5.0.5]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Runtime.win-x64",
-              "version": "[5.0.5, 5.0.5]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-              "version": "[5.0.5, 5.0.5]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "win-x64": {
-          "#import": []
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\ASP.Net Core(Devskill)\\Personal Project\\StockData\\StockData.Stock\\StockData.Stock.csproj": {
+    "D:\\ASP.Net Core(Devskill)\\ScrapData\\StockData\\StockData.Stock\\StockData.Stock.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ASP.Net Core(Devskill)\\Personal Project\\StockData\\StockData.Stock\\StockData.Stock.csproj",
+        "projectUniqueName": "D:\\ASP.Net Core(Devskill)\\ScrapData\\StockData\\StockData.Stock\\StockData.Stock.csproj",
         "projectName": "StockData.Stock",
-        "projectPath": "D:\\ASP.Net Core(Devskill)\\Personal Project\\StockData\\StockData.Stock\\StockData.Stock.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\ASP.Net Core(Devskill)\\Personal Project\\StockData\\StockData.Stock\\obj\\",
+        "projectPath": "D:\\ASP.Net Core(Devskill)\\ScrapData\\StockData\\StockData.Stock\\StockData.Stock.csproj",
+        "packagesPath": "C:\\Users\\Zahid\\.nuget\\packages\\",
+        "outputPath": "D:\\ASP.Net Core(Devskill)\\ScrapData\\StockData\\StockData.Stock\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Zahid\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -123,8 +104,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\ASP.Net Core(Devskill)\\Personal Project\\StockData\\StockData.Data\\StockData.Data.csproj": {
-                "projectPath": "D:\\ASP.Net Core(Devskill)\\Personal Project\\StockData\\StockData.Data\\StockData.Data.csproj"
+              "D:\\ASP.Net Core(Devskill)\\ScrapData\\StockData\\StockData.Data\\StockData.Data.csproj": {
+                "projectPath": "D:\\ASP.Net Core(Devskill)\\ScrapData\\StockData\\StockData.Data\\StockData.Data.csproj"
               }
             }
           }
@@ -170,31 +151,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-              "version": "[5.0.5, 5.0.5]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Runtime.win-x64",
-              "version": "[5.0.5, 5.0.5]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-              "version": "[5.0.5, 5.0.5]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "win-x64": {
-          "#import": []
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -65,7 +65,6 @@ namespace StockData.Stock.Services
 
                 foreach (var cell in htmlTableList)
                 {
-                    
                     s.Add(cell.Cell_Text.ToString());
                 }
 
@@ -98,9 +97,6 @@ namespace StockData.Stock.Services
                         var companyId = _stockDataUnitOfWork.Companies.GetAll().Where(x=>x.TradeCode==companyName).FirstOrDefault().Id;
 
                         obj.CompanyId = companyId;
-
-
-                     
 
                         obj.LastTradingPrice = string.Equals("--", temp.ElementAt(2)) ? 0.0 : double.Parse(temp.ElementAt(2), CultureInfo.InvariantCulture);
                         obj.High = string.Equals("--", temp.ElementAt(3)) ? 0.0 : double.Parse(temp.ElementAt(3), CultureInfo.InvariantCulture);

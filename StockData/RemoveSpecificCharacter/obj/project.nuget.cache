@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hcZnPCZntdrr36NIRFEGZebhS/OVfMvYtSnK6WdKTxeZDtupUha8hI74wX83lMj8bTlpFeVJgCQC3o0uV4ZptA==",
+  "dgSpecHash": "RLXegV9qngnTBGR8ski0PAUnrZNC+W2tN1JWPV69JLGtH7vRZo98FFZOJkyG4jF1gZxtE0CDPQ/g+Tk8n6WvvQ==",
   "success": true,
-  "projectFilePath": "D:\\ASP.Net Core(Devskill)\\Personal Project\\StockData\\RemoveSpecificCharacter\\RemoveSpecificCharacter.csproj",
+  "projectFilePath": "D:\\ASP.Net Core(Devskill)\\ScrapData\\StockData\\RemoveSpecificCharacter\\RemoveSpecificCharacter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

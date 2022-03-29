@@ -16,3 +16,21 @@ D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Stock\obj\Release
 D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Stock\obj\Release\net5.0\ref\StockData.Stock.dll
 D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Stock\obj\Release\net5.0\StockData.Stock.pdb
 D:\ASP.Net Core(Devskill)\Personal Project\StockData\StockData.Stock\obj\Release\net5.0\StockData.Stock.genruntimeconfig.cache
+D:\ASP.Net Core(Devskill)\ScrapData\StockData\StockData.Stock\bin\Release\net5.0\StockData.Stock.deps.json
+D:\ASP.Net Core(Devskill)\ScrapData\StockData\StockData.Stock\bin\Release\net5.0\StockData.Stock.runtimeconfig.json
+D:\ASP.Net Core(Devskill)\ScrapData\StockData\StockData.Stock\bin\Release\net5.0\StockData.Stock.runtimeconfig.dev.json
+D:\ASP.Net Core(Devskill)\ScrapData\StockData\StockData.Stock\bin\Release\net5.0\StockData.Stock.dll
+D:\ASP.Net Core(Devskill)\ScrapData\StockData\StockData.Stock\bin\Release\net5.0\ref\StockData.Stock.dll
+D:\ASP.Net Core(Devskill)\ScrapData\StockData\StockData.Stock\bin\Release\net5.0\StockData.Stock.pdb
+D:\ASP.Net Core(Devskill)\ScrapData\StockData\StockData.Stock\bin\Release\net5.0\StockData.Data.dll
+D:\ASP.Net Core(Devskill)\ScrapData\StockData\StockData.Stock\bin\Release\net5.0\StockData.Data.pdb
+D:\ASP.Net Core(Devskill)\ScrapData\StockData\StockData.Stock\obj\Release\net5.0\StockData.Stock.csproj.AssemblyReference.cache
+D:\ASP.Net Core(Devskill)\ScrapData\StockData\StockData.Stock\obj\Release\net5.0\StockData.Stock.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.Net Core(Devskill)\ScrapData\StockData\StockData.Stock\obj\Release\net5.0\StockData.Stock.AssemblyInfoInputs.cache
+D:\ASP.Net Core(Devskill)\ScrapData\StockData\StockData.Stock\obj\Release\net5.0\StockData.Stock.AssemblyInfo.cs
+D:\ASP.Net Core(Devskill)\ScrapData\StockData\StockData.Stock\obj\Release\net5.0\StockData.Stock.csproj.CoreCompileInputs.cache
+D:\ASP.Net Core(Devskill)\ScrapData\StockData\StockData.Stock\obj\Release\net5.0\StockData.Stock.csproj.CopyComplete
+D:\ASP.Net Core(Devskill)\ScrapData\StockData\StockData.Stock\obj\Release\net5.0\StockData.Stock.dll
+D:\ASP.Net Core(Devskill)\ScrapData\StockData\StockData.Stock\obj\Release\net5.0\ref\StockData.Stock.dll
+D:\ASP.Net Core(Devskill)\ScrapData\StockData\StockData.Stock\obj\Release\net5.0\StockData.Stock.pdb
+D:\ASP.Net Core(Devskill)\ScrapData\StockData\StockData.Stock\obj\Release\net5.0\StockData.Stock.genruntimeconfig.cache

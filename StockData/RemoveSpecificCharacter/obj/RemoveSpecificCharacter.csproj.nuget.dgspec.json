@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ASP.Net Core(Devskill)\\Personal Project\\StockData\\RemoveSpecificCharacter\\RemoveSpecificCharacter.csproj": {}
+    "D:\\ASP.Net Core(Devskill)\\ScrapData\\StockData\\RemoveSpecificCharacter\\RemoveSpecificCharacter.csproj": {}
   },
   "projects": {
-    "D:\\ASP.Net Core(Devskill)\\Personal Project\\StockData\\RemoveSpecificCharacter\\RemoveSpecificCharacter.csproj": {
+    "D:\\ASP.Net Core(Devskill)\\ScrapData\\StockData\\RemoveSpecificCharacter\\RemoveSpecificCharacter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ASP.Net Core(Devskill)\\Personal Project\\StockData\\RemoveSpecificCharacter\\RemoveSpecificCharacter.csproj",
+        "projectUniqueName": "D:\\ASP.Net Core(Devskill)\\ScrapData\\StockData\\RemoveSpecificCharacter\\RemoveSpecificCharacter.csproj",
         "projectName": "RemoveSpecificCharacter",
-        "projectPath": "D:\\ASP.Net Core(Devskill)\\Personal Project\\StockData\\RemoveSpecificCharacter\\RemoveSpecificCharacter.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\ASP.Net Core(Devskill)\\Personal Project\\StockData\\RemoveSpecificCharacter\\obj\\",
+        "projectPath": "D:\\ASP.Net Core(Devskill)\\ScrapData\\StockData\\RemoveSpecificCharacter\\RemoveSpecificCharacter.csproj",
+        "packagesPath": "C:\\Users\\Zahid\\.nuget\\packages\\",
+        "outputPath": "D:\\ASP.Net Core(Devskill)\\ScrapData\\StockData\\RemoveSpecificCharacter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Zahid\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     }

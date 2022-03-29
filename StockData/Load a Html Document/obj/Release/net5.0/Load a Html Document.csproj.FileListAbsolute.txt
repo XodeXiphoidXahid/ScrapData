@@ -1,0 +1,18 @@
+D:\ASP.Net Core(Devskill)\ScrapData\StockData\Load a Html Document\bin\Release\net5.0\Load a Html Document.exe
+D:\ASP.Net Core(Devskill)\ScrapData\StockData\Load a Html Document\bin\Release\net5.0\Load a Html Document.deps.json
+D:\ASP.Net Core(Devskill)\ScrapData\StockData\Load a Html Document\bin\Release\net5.0\Load a Html Document.runtimeconfig.json
+D:\ASP.Net Core(Devskill)\ScrapData\StockData\Load a Html Document\bin\Release\net5.0\Load a Html Document.runtimeconfig.dev.json
+D:\ASP.Net Core(Devskill)\ScrapData\StockData\Load a Html Document\bin\Release\net5.0\Load a Html Document.dll
+D:\ASP.Net Core(Devskill)\ScrapData\StockData\Load a Html Document\bin\Release\net5.0\ref\Load a Html Document.dll
+D:\ASP.Net Core(Devskill)\ScrapData\StockData\Load a Html Document\bin\Release\net5.0\Load a Html Document.pdb
+D:\ASP.Net Core(Devskill)\ScrapData\StockData\Load a Html Document\bin\Release\net5.0\HtmlAgilityPack.dll
+D:\ASP.Net Core(Devskill)\ScrapData\StockData\Load a Html Document\obj\Release\net5.0\Load a Html Document.csproj.AssemblyReference.cache
+D:\ASP.Net Core(Devskill)\ScrapData\StockData\Load a Html Document\obj\Release\net5.0\Load a Html Document.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.Net Core(Devskill)\ScrapData\StockData\Load a Html Document\obj\Release\net5.0\Load a Html Document.AssemblyInfoInputs.cache
+D:\ASP.Net Core(Devskill)\ScrapData\StockData\Load a Html Document\obj\Release\net5.0\Load a Html Document.AssemblyInfo.cs
+D:\ASP.Net Core(Devskill)\ScrapData\StockData\Load a Html Document\obj\Release\net5.0\Load a Html Document.csproj.CoreCompileInputs.cache
+D:\ASP.Net Core(Devskill)\ScrapData\StockData\Load a Html Document\obj\Release\net5.0\Load a Html Document.csproj.CopyComplete
+D:\ASP.Net Core(Devskill)\ScrapData\StockData\Load a Html Document\obj\Release\net5.0\Load a Html Document.dll
+D:\ASP.Net Core(Devskill)\ScrapData\StockData\Load a Html Document\obj\Release\net5.0\ref\Load a Html Document.dll
+D:\ASP.Net Core(Devskill)\ScrapData\StockData\Load a Html Document\obj\Release\net5.0\Load a Html Document.pdb
+D:\ASP.Net Core(Devskill)\ScrapData\StockData\Load a Html Document\obj\Release\net5.0\Load a Html Document.genruntimeconfig.cache
